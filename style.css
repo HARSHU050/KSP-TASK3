@@ -1,0 +1,17 @@
+h1{
+    color:cadetblue;
+    font-family:Calibri;
+
+}
+ul{
+    color:blue;
+}
+ol{
+    color:brown;
+}
+table,td,th{
+    border: 2px solid black;
+}
+p{
+    color:blue;
+}
